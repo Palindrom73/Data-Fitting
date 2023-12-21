@@ -1,0 +1,1 @@
+During my master's degree, I attended a course on nuclear reactor physics with some experiments on our small nuclear reactor at TU Dresden. I used Python to analyse the data. This repository contains only a selection of the written code.
